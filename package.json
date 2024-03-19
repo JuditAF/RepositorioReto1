@@ -1,0 +1,11 @@
+{
+  "name": "repositorioreto1",
+  "version": "1.0.0",
+  "description": "Creo un proyecto Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M Judit Amate Franco",
+  "license": "ISC"
+}
