@@ -19,7 +19,7 @@ con de la instrucción :
 * Asegúrate que te encuentras en el directorio correcto:  $ cd /path/to/your/existing/code
 * Sobre este escribe la instrución:                       $ git init nombreRepositorio
 * Posicionate en el repositorio en el que quieres trabajar, puedes acceder a través de VisualStudio con la opción de despliegue tras un click sobre la misma: <open in integarted terminal>
-![Creo la Carpeta Repositorio]("C:\Users\Usuario\Desktop\BootCampCodeNotch\CapturasPantallaGitBash\reto_2\Creo Carpeta RepositorioReto1.4.png") 
+![Creo Carpeta RepositorioReto1.4]("C:\Users\Usuario\Desktop\BootCampCodeNotch\CapturasPantallaGitBash\reto_2\Creo Carpeta RepositorioReto1.4.png") 
 
 3. [Vincula tu Repositorio Local en Remoto](#Vincula-tu-Repositorio-Local-en-Remoto)
 * Entra en la pestaña de tus Repositorios y crea un nuevo repositorio en remoto asignándole el mismo nombre que usaste para crear tu carpeta de Repositorio Local.
