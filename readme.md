@@ -46,3 +46,10 @@ con de la instrucción :
 
 6. [Actualiza tu versión](#Actualiza-tu-versión)
 * Usa el comando:                               $ git pull
+
+## Genero un archivo gitignore
+Creo rutas, escojo archivos o tipos de documentos que son necesarios ignorar para el correcto funcionamiento del código, pues se tratan de fuentes de información o consulta, no requeridas para el funcionamiento de nuestro programa o proyecto.
+* Me coloco en el directorio en el cual quiero generar el archivo:  ".gitignore"
+* Dentro del archivo nomino en cada línea los archivos o carpetas que quiero que sean ignorados
+* Subo gitignore a mi Repositorio Remoto : ya conocemos la ruta, usando git add ./ git commi -m"comentario"/ git push/ git pull
+Si abrimos GitHub, podemos observar que dichos elementos seleccionados en gitignore aparecen en rojo
