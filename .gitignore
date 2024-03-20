@@ -1,0 +1,6 @@
+# Vamos a Ignora los archivos de texto:
+*.texto
+*.txt 
+
+# Vamos a evitar generar conflictos con las rutas de la Carpete Reto_2, que contiene capturas de pantalla
+C:\Users\Usuario\Desktop\BootCampCodeNotch\CapturasPantallaGitBash\reto_2\.gitignore
